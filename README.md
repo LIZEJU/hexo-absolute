@@ -13,6 +13,7 @@ npm i hexo-absolute
 or
 ```bash
 npm i git@github.com:uiolee/hexo-absolute.git
+npm i https://github.com/LIZEJU/hexo-absolute.git
 ```
 
 ## Config
